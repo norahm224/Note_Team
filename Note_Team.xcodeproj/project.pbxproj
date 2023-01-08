@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		826F554F296AC365006EA8EE /* LanuchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826F554E296AC365006EA8EE /* LanuchView.swift */; };
+		826F5551296AC37E006EA8EE /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826F5550296AC37E006EA8EE /* ListView.swift */; };
 		828C1224296AB8710030BF38 /* Note_TeamApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C1223296AB8710030BF38 /* Note_TeamApp.swift */; };
 		828C1226296AB8710030BF38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C1225296AB8710030BF38 /* ContentView.swift */; };
 		828C1228296AB8710030BF38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 828C1227296AB8710030BF38 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		826F554E296AC365006EA8EE /* LanuchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanuchView.swift; sourceTree = "<group>"; };
+		826F5550296AC37E006EA8EE /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		828C1220296AB8710030BF38 /* Note_Team.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Note_Team.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		828C1223296AB8710030BF38 /* Note_TeamApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note_TeamApp.swift; sourceTree = "<group>"; };
 		828C1225296AB8710030BF38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				828C1223296AB8710030BF38 /* Note_TeamApp.swift */,
 				828C1225296AB8710030BF38 /* ContentView.swift */,
+				826F554E296AC365006EA8EE /* LanuchView.swift */,
+				826F5550296AC37E006EA8EE /* ListView.swift */,
 				828C1227296AB8710030BF38 /* Assets.xcassets */,
 				828C1229296AB8710030BF38 /* Preview Content */,
 			);
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				826F5551296AC37E006EA8EE /* ListView.swift in Sources */,
 				828C1226296AB8710030BF38 /* ContentView.swift in Sources */,
+				826F554F296AC365006EA8EE /* LanuchView.swift in Sources */,
 				828C1224296AB8710030BF38 /* Note_TeamApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
