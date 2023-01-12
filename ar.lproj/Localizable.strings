@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Note_Team
+
+  Created by Nourah Almusaad on 11/01/2023.
+  
+*/
+"My notes" = "مذكراتي ";
+"New Folder" = "ملف جديد";
+"Enter a folder name" = "ادخل اسم الملف ";
+"Folder name" = "اسم الملف";
+"Cancel" = "الغاء";
+"Save" = "حفظ";
+"Work" = "العمل";
+"House furniture" = "أثاث البيت";
+"Spending" = "مصاريف";
+"Done" = "انجز";
+"Become focused, organized, and calm with Done " = "مع أنجز كن منظم، اكثر تركيز وهادئ";
+"attend meeting" = "حضور اجتماع";
+"Discuess final design " = "مناقشة التصميم الاخير ";
+"Develop sign in page" = "برمجة  صفحة الدخول";
+"Develop user account page" = "برمجة صفحة حساب المستخدم";
+"Type something here.." = "اكتب شيئاً هنا...";
+"Add a task 📝" = "اضافة مهمة هنا📝 ";
+"your tasks item must be at least 3 charecters long.." = "عدد حروف مهمتك اقل من ٣ حروف ";
+"Reminder" = "تذكير ";
+"Delete" = "حذف";
+"Set reminder " = "تعيين تنبه";
+"Add new folder name" = "اضافة اسم ملف جديد";
+"To Do List ✏️"  = "قائمة المهام✏️";
+"Add" = "أضافة";
+"This is reminder you to check your list " = "هذا التنبيه لتذكيرك بالرجوع لقائمتك";
+"Hey There!" = "أهلاً";
+"First item" = "البند الاول ";
+"Second item" = "البند الثاني"; 
+"Save" = "حفظ";
+"Pick a date:" = "اختار تاريخ"; 
+"Let's write image" = "هيا نكتب"; 

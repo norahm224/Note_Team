@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct Note_TeamApp: App {
+    @StateObject var myNotesViewModel = MyNotesViewModel()
+    @StateObject var listViewModel = ListViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
+                .environmentObject(myNotesViewModel)
+                .environmentObject(listViewModel)
         }
     }
 }
