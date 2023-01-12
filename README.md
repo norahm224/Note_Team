@@ -29,11 +29,12 @@ and programming the application using the SwiftUI language (Xcode).
 https://drive.google.com/file/d/18O_ogO9X5uE_SH_Bt9O308BnlIxvQyO5/view?usp=sharing
 
 The user can, as shown in the video:
-1-The ability to create an infinite number of lists that can be renamed.
 
-2- The ability to create a check that is not in the list, through which the user can change the locations of the tasks, and create an infinite number of them.
+1. The ability to create an infinite number of folder that can be renamed, set reminder of their list from drag folder name.
 
-3- Application support localization and accessibility by voiceover
+2. The ability to create a check their lists, also delete and edit .
+
+3. Application support localization and accessibility by voiceover
 
 
 ## Challenge Summary
